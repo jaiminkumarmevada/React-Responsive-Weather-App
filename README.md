@@ -1,7 +1,5 @@
 
 
----
-
 # React Weather App
 
 ## Overview
