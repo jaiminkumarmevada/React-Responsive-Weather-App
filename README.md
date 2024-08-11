@@ -61,9 +61,7 @@ Throughout the development of this weather app, I gained hands-on experience wit
 
 Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and contributions are always welcome!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
