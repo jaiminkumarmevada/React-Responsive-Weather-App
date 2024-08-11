@@ -23,7 +23,7 @@ Welcome to the React Weather App! This is a weather forecasting application buil
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/react-weather-app.git
+   git clone https://github.com/jaiminkumarmevada/React-Responsive-Weather-App.git
    ```
 
 2. **Navigate to the Project Directory**
